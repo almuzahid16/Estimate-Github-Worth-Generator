@@ -1,5 +1,5 @@
 <div align="center">
-<h1>👩‍💻 devFind - Discover and Connect with Skilled Developers!</h1>
+<h1>👩‍💻 Estimate Github Worth Generator - Discover and Connect with Skilled Developers!</h1>
 </div>
 
 <p align="center">
@@ -39,7 +39,7 @@
 
 ## About 🚀
 
-- devFind - [Website](https://dev-find.vercel.app/)
+- devFind - [Website]([https://dev-find.vercel.app/](https://github-worth.vercel.app/))
 - **`devFind`** is an open source project that aims to create a platform for developers to showcase their skills and connect with potential collaborators, all in a user-friendly and searchable format.
 - With **`devFind`**, developers can create their profiles in JSON format, which are then displayed on the web for others to discover.
 
